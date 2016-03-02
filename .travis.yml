@@ -5,5 +5,5 @@ php:
   - hhvm
 script: phpunit Test.php
 
-notifications
+notifications:
   email: false
